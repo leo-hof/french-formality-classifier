@@ -1,6 +1,6 @@
 # French formality classifier: fine-tuning CamemBERT and analysing which words and POS tags it relies on
 
-> Individual final project · *CS372 Natural Language Processing with Python* · KAIST (exchange semester), Spring 2025 · PyTorch, Hugging Face Transformers, spaCy, NLTK
+> Individual course project · *CS372 Natural Language Processing with Python* · KAIST (exchange year), Spring 2025 · PyTorch, Hugging Face Transformers, spaCy, NLTK
 
 The aim of this project was to classify whether a French sentence is written in formal or informal language, and then to study which words and grammatical features make a sentence more or less formal for the model. I also wanted to use the tools we had seen in the course to practise them: regular expressions to clean the data, NLTK to split it into sentences, POS tagging to analyse the results, and WordNet for an attempt at rewriting sentences in the other register.
 
